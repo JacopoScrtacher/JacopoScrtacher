@@ -1,4 +1,11 @@
-### Hi there 👋
+### ✨ Hi there and welkom to the official PassyOS Reposity!
+What i'm currently working on:
+ - Making my system (PassyOS) better when i have Time!
+ - Working to make a better installer for the system!
+ - Fix bugs to my website! ( you can visit it on: https://jacoposcrtacher.github.io/PassyOSDevWebsite/)
+ - And working on graphical things!
+   
+
 
 <!--
 **JacopoScrtacher/JacopoScrtacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
