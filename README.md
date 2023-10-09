@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### ✨ Hi there and welkom to the official PassyOS Reposity!
+✨ Hi there and welkom to the official PassyOS Reposity!
 What i'm currently working on:
  - Making my system (PassyOS) better when i have Time!
  - Working to make a better installer for the system!
