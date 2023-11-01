@@ -19,8 +19,15 @@ Languages where i code:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
+<div>
+  <iframe src="https://discord.com/widget?id=1073641652566118453&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div>
+
 ### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
 
 <!--
 **JacopoScrtacher/JacopoScrtacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
