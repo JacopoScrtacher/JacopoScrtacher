@@ -31,9 +31,7 @@ Languages where i code:
 ### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### Discord: [https://discord.gg/pSN2wT2H]
-
-
+ ### <iframe src="https://discord.com/widget?id=1218848174609797160&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 
