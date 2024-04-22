@@ -30,24 +30,7 @@ Languages where i code:
 
 ### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
- <script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
-<script type="text/javascript">
-    discordWidget.init({
-        serverId: '51143782082543616',
-        title: 'Discord Widget Title',
-        join: false,
-        alphabetical: false,
-        theme: 'dark',
-        hideChannels: ['Channel Name 1', 'Channel Name 2'],
-        showAllUsers: true,
-        allUsersDefaultState: true
-    });
-    discordWidget.render();
-</script>
-<div class="discord-widget"></div>
-
-
+ 
 
 <!--
 **JacopoScrtacher/JacopoScrtacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
