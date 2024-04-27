@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/7f64f102-9de6-4326-b3e4-4594dfd3887a)<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ✨ Hi there and welkom to the official PassyOS Reposity!
@@ -31,8 +31,8 @@ Languages where i code:
 ### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-##Screenshots:
- ![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/4fe288ca-2a58-40b8-9cb7-2f9e2c4e9545)
+### Screenshots:
+ ![image]("https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/4fe288ca-2a58-40b8-9cb7-2f9e2c4e9545" {width=40px height=100px})
 
 
 <!--
