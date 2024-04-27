@@ -32,7 +32,9 @@ Languages where i code:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Screenshots:
-<img src="https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/4fe288ca-2a58-40b8-9cb7-2f9e2c4e9545" width=80px height=80px>
+![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/f35c1dc2-9be3-4e64-84ee-e7da345c0c97)
+
+![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/c3eca7e1-8126-485f-bfbe-93197677b726)
 
 
 <!--
