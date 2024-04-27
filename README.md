@@ -1,4 +1,4 @@
-![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/7f64f102-9de6-4326-b3e4-4594dfd3887a)<div id="header" align="center">
+
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ✨ Hi there and welkom to the official PassyOS Reposity!
