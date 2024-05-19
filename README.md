@@ -36,6 +36,9 @@ Languages where i code:
 
 ![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/c3eca7e1-8126-485f-bfbe-93197677b726)
 
+![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/372862bc-8003-4819-9f29-08bfd60002fb)
+
+
 
 <!--
 **JacopoScrtacher/JacopoScrtacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
