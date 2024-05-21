@@ -31,10 +31,8 @@ Languages where i code:
 ### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### Screenshots:
-![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/f35c1dc2-9be3-4e64-84ee-e7da345c0c97)
-
-![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/c3eca7e1-8126-485f-bfbe-93197677b726)
+### Screenshots & sneak peak:
+![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/1b7e337b-321e-4f81-9e13-b676ceb65079)
 
 ![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/372862bc-8003-4819-9f29-08bfd60002fb)
 
