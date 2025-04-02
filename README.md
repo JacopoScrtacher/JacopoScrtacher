@@ -32,8 +32,9 @@ Languages where i code:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Screenshots & sneak peaks of OS:
- ![image](https://github.com/user-attachments/assets/1c23da93-5d6c-49f3-9d9e-1863ba73ebdf)
+![image](https://github.com/user-attachments/assets/1c23da93-5d6c-49f3-9d9e-1863ba73ebdf)
 ![image](https://github.com/user-attachments/assets/310e62a4-22ac-4aa0-99fd-fd182964679c)
+![image](https://github.com/user-attachments/assets/a7a0e06a-9c40-4d59-b362-fa89e7e809d6)
 
 
 
