@@ -31,10 +31,10 @@ Languages where i code:
 ### My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JacopoScrtacher&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### Screenshots & sneak peak:
-![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/1b7e337b-321e-4f81-9e13-b676ceb65079)
+### Screenshots & sneak peaks of OS:
+ ![image](https://github.com/user-attachments/assets/1c23da93-5d6c-49f3-9d9e-1863ba73ebdf)
+![image](https://github.com/user-attachments/assets/310e62a4-22ac-4aa0-99fd-fd182964679c)
 
-![image](https://github.com/JacopoScrtacher/JacopoScrtacher/assets/92588416/372862bc-8003-4819-9f29-08bfd60002fb)
 
 
 
